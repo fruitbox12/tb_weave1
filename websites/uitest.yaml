@@ -6,7 +6,7 @@ domains:
 source:
     paths:
         - /
-    branch: main
+    branch: develop
     github:
         id: 955458343
         fullname: fruitbox12/uitest

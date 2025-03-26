@@ -1,0 +1,12 @@
+id: QmXkZ13VLGNvccHjsvxjZdqYiHXb1oghgNUZrAPrUbXUgi
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: develop
+    github:
+        id: 955458343
+        fullname: fruitbox12/uitest
